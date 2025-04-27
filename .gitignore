@@ -1,0 +1,25 @@
+# Python bytecode files
+*.pyc
+__pycache__
+
+# Database
+db.sqlite3
+
+# Static files (collected static files)
+staticfiles/
+
+# Environment variable files
+.env
+
+# Django migrations
+*/migrations/
+
+# Media files (if you store any user-uploaded content)
+media/
+
+# IDE files (if using VSCode or PyCharm)
+.vscode/
+.idea/
+
+# Log files
+*.log
